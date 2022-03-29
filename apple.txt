@@ -1,5 +1,9 @@
 First Commit
+<<<<<<< HEAD
 Second Commit
 Third Commit
 
 This is wrong commit
+=======
+Second Commit
+>>>>>>> parent of 0c80f5a (Make Third Commit)
